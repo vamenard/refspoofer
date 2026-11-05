@@ -12,8 +12,8 @@
  * PHP version 5
  *
  * @category  UrlCrawler
- * @package   RefererSpoofer
- * @author    Julien J. Halle <julienhalle@heptacube.com>
+ * @package   RefSpoofer
+ * @author    Julien J. Halle
  * @copyright Heptacube inc.
  * @version   10-11-2009
  *
