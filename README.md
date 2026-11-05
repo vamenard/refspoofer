@@ -22,3 +22,9 @@ Vincent Menard  <github@vcpu.com>  2009 - 2026
 Julien Halle 2009
 
 
+## About Heptacube Inc.
+
+Heptacube Inc. was a corporation co-founded by Vincent Menard, it operated between 2006 and 2012.
+
+
+
